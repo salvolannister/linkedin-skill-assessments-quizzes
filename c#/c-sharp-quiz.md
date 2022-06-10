@@ -699,9 +699,10 @@ public int Password
 
 - [ ] `resource overload`
 - [ ] `thread jumping`
-- [ ] `deadlock and race conditions`
+- [x] `deadlock and race conditions`
 - [ ] `nothing, since this is what threading is for`
 
+[Race Condition](https://stackoverflow.com/questions/34510/what-is-a-race-condition)    
 #### Q65. How do you indicate that a string might be null?
 
 - [ ] `A string cannot be nullable.`
